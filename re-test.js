@@ -1,5 +1,5 @@
 //soal 2
-// function Cipher(string, num)
+
 function Chiper(txt) {
 
     var z = txt.split('');
